@@ -23,7 +23,7 @@ print(Style.RESET_ALL)
 def autoChecking():
     
     try:
-        with open("./acc.txt", 'r', encoding="utf8") as f:
+        with open("./account.txt", 'r', encoding="utf8") as f:
             lines = f.readlines()
             rangeLines = len(lines)
     except:
