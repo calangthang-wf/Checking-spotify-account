@@ -1,4 +1,4 @@
-# Auto-Follow-Spotify
+# Checking-Account-Spotify
 * Using Selenium
 * Make by: CaLangThang
 
@@ -17,4 +17,4 @@
 
 ## **USE TOOL**
 * Open command line
-* Using command: `python autofollow.py`
+* Using command: `python checkingAcc.py`
