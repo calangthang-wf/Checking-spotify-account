@@ -13,7 +13,7 @@
 ## **SET UP**
 * Dowload and install python from offical website: https://www.python.org/downloads/
 * Install package from requirements.txt: `pip install -r requirements.txt`
-* Import the list of account to **_account.txt_** in format: `gmail:password`
+* Import the list of account to **_account.txt_** in format: `username:password`
 
 ## **USE TOOL**
 * Open command line
